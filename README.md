@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lauLanez
 - 👀 I’m interested in ... Full Stack Developer
-- 🌱 I’m currently learning ... HTML,CSS,Javascript,React,Python,Nodejs
+- 🌱 I’m currently learning ... Javascript,ReactJs,Python,NodeJs,Angular,Php
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me ...
 - laulanyumbayire@gmail.com
